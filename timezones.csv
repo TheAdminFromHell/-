@@ -1,0 +1,418 @@
+CI,Ivory Coast,Africa/Abidjan,0
+GH,Ghana,Africa/Accra,0
+ET,Ethiopia,Africa/Addis_Ababa,10800
+DZ,Algeria,Africa/Algiers,3600
+ER,Eritrea,Africa/Asmara,10800
+ML,Mali,Africa/Bamako,0
+CF,Central African Republic,Africa/Bangui,3600
+GM,Gambia,Africa/Banjul,0
+GW,Guinea-Bissau,Africa/Bissau,0
+MW,Malawi,Africa/Blantyre,7200
+CG,Republic of the Congo,Africa/Brazzaville,3600
+BI,Burundi,Africa/Bujumbura,7200
+EG,Egypt,Africa/Cairo,7200
+MA,Morocco,Africa/Casablanca,0
+ES,Spain,Africa/Ceuta,7200
+GN,Guinea,Africa/Conakry,0
+SN,Senegal,Africa/Dakar,0
+TZ,Tanzania,Africa/Dar_es_Salaam,10800
+DJ,Djibouti,Africa/Djibouti,10800
+CM,Cameroon,Africa/Douala,3600
+MA,Morocco,Africa/El_Aaiun,0
+SL,Sierra Leone,Africa/Freetown,0
+BW,Botswana,Africa/Gaborone,7200
+ZW,Zimbabwe,Africa/Harare,7200
+ZA,South Africa,Africa/Johannesburg,7200
+SS,South Sudan,Africa/Juba,7200
+UG,Uganda,Africa/Kampala,10800
+SD,Sudan,Africa/Khartoum,7200
+RW,Rwanda,Africa/Kigali,7200
+CD,Democratic Republic of the Congo,Africa/Kinshasa,3600
+NG,Nigeria,Africa/Lagos,3600
+GA,Gabon,Africa/Libreville,3600
+TG,Togo,Africa/Lome,0
+AO,Angola,Africa/Luanda,3600
+CD,Democratic Republic of the Congo,Africa/Lubumbashi,7200
+ZM,Zambia,Africa/Lusaka,7200
+GQ,Equatorial Guinea,Africa/Malabo,3600
+MZ,Mozambique,Africa/Maputo,7200
+LS,Lesotho,Africa/Maseru,7200
+SZ,Eswatini,Africa/Mbabane,7200
+SO,Somalia,Africa/Mogadishu,10800
+LR,Liberia,Africa/Monrovia,0
+KE,Kenya,Africa/Nairobi,10800
+TD,Chad,Africa/Ndjamena,3600
+NE,Niger,Africa/Niamey,3600
+MR,Mauritania,Africa/Nouakchott,0
+BF,Burkina Faso,Africa/Ouagadougou,0
+BJ,Benin,Africa/Porto-Novo,3600
+ST,Sao Tome and Principe,Africa/Sao_Tome,0
+LY,Libya,Africa/Tripoli,7200
+TN,Tunisia,Africa/Tunis,3600
+NA,Namibia,Africa/Windhoek,7200
+US,United States,America/Adak,-32400
+US,United States,America/Anchorage,-28800
+AI,Anguilla,America/Anguilla,-14400
+AG,Antigua and Barbuda,America/Antigua,-14400
+BR,Brazil,America/Araguaina,-10800
+AR,Argentina,America/Argentina/Buenos_Aires,-10800
+AR,Argentina,America/Argentina/Catamarca,-10800
+AR,Argentina,America/Argentina/Cordoba,-10800
+AR,Argentina,America/Argentina/Jujuy,-10800
+AR,Argentina,America/Argentina/La_Rioja,-10800
+AR,Argentina,America/Argentina/Mendoza,-10800
+AR,Argentina,America/Argentina/Rio_Gallegos,-10800
+AR,Argentina,America/Argentina/Salta,-10800
+AR,Argentina,America/Argentina/San_Juan,-10800
+AR,Argentina,America/Argentina/San_Luis,-10800
+AR,Argentina,America/Argentina/Tucuman,-10800
+AR,Argentina,America/Argentina/Ushuaia,-10800
+AW,Aruba,America/Aruba,-14400
+PY,Paraguay,America/Asuncion,-14400
+CA,Canada,America/Atikokan,-18000
+BR,Brazil,America/Bahia,-10800
+MX,Mexico,America/Bahia_Banderas,-21600
+BB,Barbados,America/Barbados,-14400
+BR,Brazil,America/Belem,-10800
+BZ,Belize,America/Belize,-21600
+CA,Canada,America/Blanc-Sablon,-14400
+BR,Brazil,America/Boa_Vista,-14400
+CO,Colombia,America/Bogota,-18000
+US,United States,America/Boise,-21600
+CA,Canada,America/Cambridge_Bay,-21600
+BR,Brazil,America/Campo_Grande,-14400
+MX,Mexico,America/Cancun,-18000
+VE,Venezuela,America/Caracas,-14400
+GF,French Guiana,America/Cayenne,-10800
+KY,Cayman Islands,America/Cayman,-18000
+US,United States,America/Chicago,-18000
+MX,Mexico,America/Chihuahua,-21600
+MX,Mexico,America/Ciudad_Juarez,-21600
+CR,Costa Rica,America/Costa_Rica,-21600
+CA,Canada,America/Creston,-25200
+BR,Brazil,America/Cuiaba,-14400
+CW,Curacao,America/Curacao,-14400
+GL,Greenland,America/Danmarkshavn,0
+CA,Canada,America/Dawson,-25200
+CA,Canada,America/Dawson_Creek,-25200
+US,United States,America/Denver,-21600
+US,United States,America/Detroit,-14400
+DM,Dominica,America/Dominica,-14400
+CA,Canada,America/Edmonton,-21600
+BR,Brazil,America/Eirunepe,-18000
+SV,El Salvador,America/El_Salvador,-21600
+CA,Canada,America/Fort_Nelson,-25200
+BR,Brazil,America/Fortaleza,-10800
+CA,Canada,America/Glace_Bay,-10800
+CA,Canada,America/Goose_Bay,-10800
+TC,Turks and Caicos Islands,America/Grand_Turk,-14400
+GD,Grenada,America/Grenada,-14400
+GP,Guadeloupe,America/Guadeloupe,-14400
+GT,Guatemala,America/Guatemala,-21600
+EC,Ecuador,America/Guayaquil,-18000
+GY,Guyana,America/Guyana,-14400
+CA,Canada,America/Halifax,-10800
+CU,Cuba,America/Havana,-14400
+MX,Mexico,America/Hermosillo,-25200
+US,United States,America/Indiana/Indianapolis,-14400
+US,United States,America/Indiana/Knox,-18000
+US,United States,America/Indiana/Marengo,-14400
+US,United States,America/Indiana/Petersburg,-14400
+US,United States,America/Indiana/Tell_City,-18000
+US,United States,America/Indiana/Vevay,-14400
+US,United States,America/Indiana/Vincennes,-14400
+US,United States,America/Indiana/Winamac,-14400
+CA,Canada,America/Inuvik,-21600
+CA,Canada,America/Iqaluit,-14400
+JM,Jamaica,America/Jamaica,-18000
+US,United States,America/Juneau,-28800
+US,United States,America/Kentucky/Louisville,-14400
+US,United States,America/Kentucky/Monticello,-14400
+BQ,"Bonaire, Saint Eustatius and Saba",America/Kralendijk,-14400
+BO,Bolivia,America/La_Paz,-14400
+PE,Peru,America/Lima,-18000
+US,United States,America/Los_Angeles,-25200
+SX,Sint Maarten,America/Lower_Princes,-14400
+BR,Brazil,America/Maceio,-10800
+NI,Nicaragua,America/Managua,-21600
+BR,Brazil,America/Manaus,-14400
+MF,Saint Martin,America/Marigot,-14400
+MQ,Martinique,America/Martinique,-14400
+MX,Mexico,America/Matamoros,-18000
+MX,Mexico,America/Mazatlan,-25200
+US,United States,America/Menominee,-18000
+MX,Mexico,America/Merida,-21600
+US,United States,America/Metlakatla,-28800
+MX,Mexico,America/Mexico_City,-21600
+PM,Saint Pierre and Miquelon,America/Miquelon,-7200
+CA,Canada,America/Moncton,-10800
+MX,Mexico,America/Monterrey,-21600
+UY,Uruguay,America/Montevideo,-10800
+MS,Montserrat,America/Montserrat,-14400
+BS,Bahamas,America/Nassau,-14400
+US,United States,America/New_York,-14400
+US,United States,America/Nome,-28800
+BR,Brazil,America/Noronha,-7200
+US,United States,America/North_Dakota/Beulah,-18000
+US,United States,America/North_Dakota/Center,-18000
+US,United States,America/North_Dakota/New_Salem,-18000
+GL,Greenland,America/Nuuk,-3600
+MX,Mexico,America/Ojinaga,-18000
+PA,Panama,America/Panama,-18000
+SR,Suriname,America/Paramaribo,-10800
+US,United States,America/Phoenix,-25200
+HT,Haiti,America/Port-au-Prince,-14400
+TT,Trinidad and Tobago,America/Port_of_Spain,-14400
+BR,Brazil,America/Porto_Velho,-14400
+PR,Puerto Rico,America/Puerto_Rico,-14400
+CL,Chile,America/Punta_Arenas,-10800
+CA,Canada,America/Rankin_Inlet,-18000
+BR,Brazil,America/Recife,-10800
+CA,Canada,America/Regina,-21600
+CA,Canada,America/Resolute,-18000
+BR,Brazil,America/Rio_Branco,-18000
+BR,Brazil,America/Santarem,-10800
+CL,Chile,America/Santiago,-10800
+DO,Dominican Republic,America/Santo_Domingo,-14400
+BR,Brazil,America/Sao_Paulo,-10800
+GL,Greenland,America/Scoresbysund,-3600
+US,United States,America/Sitka,-28800
+BL,Saint Barthelemy,America/St_Barthelemy,-14400
+CA,Canada,America/St_Johns,-9000
+KN,Saint Kitts and Nevis,America/St_Kitts,-14400
+LC,Saint Lucia,America/St_Lucia,-14400
+VI,U.S. Virgin Islands,America/St_Thomas,-14400
+VC,Saint Vincent and the Grenadines,America/St_Vincent,-14400
+CA,Canada,America/Swift_Current,-21600
+HN,Honduras,America/Tegucigalpa,-21600
+GL,Greenland,America/Thule,-10800
+MX,Mexico,America/Tijuana,-25200
+CA,Canada,America/Toronto,-14400
+VG,British Virgin Islands,America/Tortola,-14400
+CA,Canada,America/Vancouver,-25200
+CA,Canada,America/Whitehorse,-25200
+CA,Canada,America/Winnipeg,-18000
+US,United States,America/Yakutat,-28800
+AQ,Antarctica,Antarctica/Casey,28800
+AQ,Antarctica,Antarctica/Davis,25200
+AQ,Antarctica,Antarctica/DumontDUrville,36000
+AU,Australia,Antarctica/Macquarie,39600
+AQ,Antarctica,Antarctica/Mawson,18000
+AQ,Antarctica,Antarctica/McMurdo,46800
+AQ,Antarctica,Antarctica/Palmer,-10800
+AQ,Antarctica,Antarctica/Rothera,-10800
+AQ,Antarctica,Antarctica/Syowa,10800
+AQ,Antarctica,Antarctica/Troll,7200
+AQ,Antarctica,Antarctica/Vostok,18000
+SJ,Svalbard and Jan Mayen,Arctic/Longyearbyen,7200
+YE,Yemen,Asia/Aden,10800
+KZ,Kazakhstan,Asia/Almaty,18000
+JO,Jordan,Asia/Amman,10800
+RU,Russia,Asia/Anadyr,43200
+KZ,Kazakhstan,Asia/Aqtau,18000
+KZ,Kazakhstan,Asia/Aqtobe,18000
+TM,Turkmenistan,Asia/Ashgabat,18000
+KZ,Kazakhstan,Asia/Atyrau,18000
+IQ,Iraq,Asia/Baghdad,10800
+BH,Bahrain,Asia/Bahrain,10800
+AZ,Azerbaijan,Asia/Baku,14400
+TH,Thailand,Asia/Bangkok,25200
+RU,Russia,Asia/Barnaul,25200
+LB,Lebanon,Asia/Beirut,10800
+KG,Kyrgyzstan,Asia/Bishkek,21600
+BN,Brunei,Asia/Brunei,28800
+RU,Russia,Asia/Chita,32400
+MN,Mongolia,Asia/Choibalsan,28800
+LK,Sri Lanka,Asia/Colombo,19800
+SY,Syria,Asia/Damascus,10800
+BD,Bangladesh,Asia/Dhaka,21600
+TL,Timor Leste,Asia/Dili,32400
+AE,United Arab Emirates,Asia/Dubai,14400
+TJ,Tajikistan,Asia/Dushanbe,18000
+CY,Cyprus,Asia/Famagusta,10800
+PS,Palestinian Territory,Asia/Gaza,7200
+PS,Palestinian Territory,Asia/Hebron,7200
+VN,Vietnam,Asia/Ho_Chi_Minh,25200
+HK,Hong Kong,Asia/Hong_Kong,28800
+MN,Mongolia,Asia/Hovd,25200
+RU,Russia,Asia/Irkutsk,28800
+ID,Indonesia,Asia/Jakarta,25200
+ID,Indonesia,Asia/Jayapura,32400
+IL,Israel,Asia/Jerusalem,10800
+AF,Afghanistan,Asia/Kabul,16200
+RU,Russia,Asia/Kamchatka,43200
+PK,Pakistan,Asia/Karachi,18000
+NP,Nepal,Asia/Kathmandu,20700
+RU,Russia,Asia/Khandyga,32400
+IN,India,Asia/Kolkata,19800
+RU,Russia,Asia/Krasnoyarsk,25200
+MY,Malaysia,Asia/Kuala_Lumpur,28800
+MY,Malaysia,Asia/Kuching,28800
+KW,Kuwait,Asia/Kuwait,10800
+MO,Macao,Asia/Macau,28800
+RU,Russia,Asia/Magadan,39600
+ID,Indonesia,Asia/Makassar,28800
+PH,Philippines,Asia/Manila,28800
+OM,Oman,Asia/Muscat,14400
+CY,Cyprus,Asia/Nicosia,10800
+RU,Russia,Asia/Novokuznetsk,25200
+RU,Russia,Asia/Novosibirsk,25200
+RU,Russia,Asia/Omsk,21600
+KZ,Kazakhstan,Asia/Oral,18000
+KH,Cambodia,Asia/Phnom_Penh,25200
+ID,Indonesia,Asia/Pontianak,25200
+KP,North Korea,Asia/Pyongyang,32400
+QA,Qatar,Asia/Qatar,10800
+KZ,Kazakhstan,Asia/Qostanay,18000
+KZ,Kazakhstan,Asia/Qyzylorda,18000
+SA,Saudi Arabia,Asia/Riyadh,10800
+RU,Russia,Asia/Sakhalin,39600
+UZ,Uzbekistan,Asia/Samarkand,18000
+KR,South Korea,Asia/Seoul,32400
+CN,China,Asia/Shanghai,28800
+SG,Singapore,Asia/Singapore,28800
+RU,Russia,Asia/Srednekolymsk,39600
+TW,Taiwan,Asia/Taipei,28800
+UZ,Uzbekistan,Asia/Tashkent,18000
+GE,Georgia,Asia/Tbilisi,14400
+IR,Iran,Asia/Tehran,12600
+BT,Bhutan,Asia/Thimphu,21600
+JP,Japan,Asia/Tokyo,32400
+RU,Russia,Asia/Tomsk,25200
+MN,Mongolia,Asia/Ulaanbaatar,28800
+CN,China,Asia/Urumqi,21600
+RU,Russia,Asia/Ust-Nera,36000
+LA,Laos,Asia/Vientiane,25200
+RU,Russia,Asia/Vladivostok,36000
+RU,Russia,Asia/Yakutsk,32400
+MM,Myanmar,Asia/Yangon,23400
+RU,Russia,Asia/Yekaterinburg,18000
+AM,Armenia,Asia/Yerevan,14400
+PT,Portugal,Atlantic/Azores,0
+BM,Bermuda,Atlantic/Bermuda,-10800
+ES,Spain,Atlantic/Canary,3600
+CV,Cabo Verde,Atlantic/Cape_Verde,-3600
+FO,Faroe Islands,Atlantic/Faroe,3600
+PT,Portugal,Atlantic/Madeira,3600
+IS,Iceland,Atlantic/Reykjavik,0
+GS,South Georgia and the South Sandwich Islands,Atlantic/South_Georgia,-7200
+SH,Saint Helena,Atlantic/St_Helena,0
+FK,Falkland Islands,Atlantic/Stanley,-10800
+AU,Australia,Australia/Adelaide,37800
+AU,Australia,Australia/Brisbane,36000
+AU,Australia,Australia/Broken_Hill,37800
+AU,Australia,Australia/Darwin,34200
+AU,Australia,Australia/Eucla,31500
+AU,Australia,Australia/Hobart,39600
+AU,Australia,Australia/Lindeman,36000
+AU,Australia,Australia/Lord_Howe,39600
+AU,Australia,Australia/Melbourne,39600
+AU,Australia,Australia/Perth,28800
+AU,Australia,Australia/Sydney,39600
+NL,Netherlands,Europe/Amsterdam,7200
+AD,Andorra,Europe/Andorra,7200
+RU,Russia,Europe/Astrakhan,14400
+GR,Greece,Europe/Athens,10800
+RS,Serbia,Europe/Belgrade,7200
+DE,Germany,Europe/Berlin,7200
+SK,Slovakia,Europe/Bratislava,7200
+BE,Belgium,Europe/Brussels,7200
+RO,Romania,Europe/Bucharest,10800
+HU,Hungary,Europe/Budapest,7200
+DE,Germany,Europe/Busingen,7200
+MD,Moldova,Europe/Chisinau,10800
+DK,Denmark,Europe/Copenhagen,7200
+IE,Ireland,Europe/Dublin,3600
+GI,Gibraltar,Europe/Gibraltar,7200
+GG,Guernsey,Europe/Guernsey,3600
+FI,Finland,Europe/Helsinki,10800
+IM,Isle of Man,Europe/Isle_of_Man,3600
+TR,Turkey,Europe/Istanbul,10800
+JE,Jersey,Europe/Jersey,3600
+RU,Russia,Europe/Kaliningrad,7200
+RU,Russia,Europe/Kirov,10800
+UA,Ukraine,Europe/Kyiv,10800
+PT,Portugal,Europe/Lisbon,3600
+SI,Slovenia,Europe/Ljubljana,7200
+GB,United Kingdom,Europe/London,3600
+LU,Luxembourg,Europe/Luxembourg,7200
+ES,Spain,Europe/Madrid,7200
+MT,Malta,Europe/Malta,7200
+AX,Aland Islands,Europe/Mariehamn,10800
+BY,Belarus,Europe/Minsk,10800
+MC,Monaco,Europe/Monaco,7200
+RU,Russia,Europe/Moscow,10800
+NO,Norway,Europe/Oslo,7200
+FR,France,Europe/Paris,7200
+ME,Montenegro,Europe/Podgorica,7200
+CZ,Czechia,Europe/Prague,7200
+LV,Latvia,Europe/Riga,10800
+IT,Italy,Europe/Rome,7200
+RU,Russia,Europe/Samara,14400
+SM,San Marino,Europe/San_Marino,7200
+BA,Bosnia and Herzegovina,Europe/Sarajevo,7200
+RU,Russia,Europe/Saratov,14400
+UA,Ukraine,Europe/Simferopol,10800
+MK,North Macedonia,Europe/Skopje,7200
+BG,Bulgaria,Europe/Sofia,10800
+SE,Sweden,Europe/Stockholm,7200
+EE,Estonia,Europe/Tallinn,10800
+AL,Albania,Europe/Tirane,7200
+RU,Russia,Europe/Ulyanovsk,14400
+LI,Liechtenstein,Europe/Vaduz,7200
+VA,Vatican,Europe/Vatican,7200
+AT,Austria,Europe/Vienna,7200
+LT,Lithuania,Europe/Vilnius,10800
+RU,Russia,Europe/Volgograd,10800
+PL,Poland,Europe/Warsaw,7200
+HR,Croatia,Europe/Zagreb,7200
+CH,Switzerland,Europe/Zurich,7200
+MG,Madagascar,Indian/Antananarivo,10800
+IO,British Indian Ocean Territory,Indian/Chagos,21600
+CX,Christmas Island,Indian/Christmas,25200
+CC,Cocos Islands,Indian/Cocos,23400
+KM,Comoros,Indian/Comoro,10800
+TF,French Southern Territories,Indian/Kerguelen,18000
+SC,Seychelles,Indian/Mahe,14400
+MV,Maldives,Indian/Maldives,18000
+MU,Mauritius,Indian/Mauritius,14400
+YT,Mayotte,Indian/Mayotte,10800
+RE,Reunion,Indian/Reunion,14400
+WS,Samoa,Pacific/Apia,46800
+NZ,New Zealand,Pacific/Auckland,46800
+PG,Papua New Guinea,Pacific/Bougainville,39600
+NZ,New Zealand,Pacific/Chatham,49500
+FM,Micronesia,Pacific/Chuuk,36000
+CL,Chile,Pacific/Easter,-18000
+VU,Vanuatu,Pacific/Efate,39600
+TK,Tokelau,Pacific/Fakaofo,46800
+FJ,Fiji,Pacific/Fiji,43200
+TV,Tuvalu,Pacific/Funafuti,43200
+EC,Ecuador,Pacific/Galapagos,-21600
+PF,French Polynesia,Pacific/Gambier,-32400
+SB,Solomon Islands,Pacific/Guadalcanal,39600
+GU,Guam,Pacific/Guam,36000
+US,United States,Pacific/Honolulu,-36000
+KI,Kiribati,Pacific/Kanton,46800
+KI,Kiribati,Pacific/Kiritimati,50400
+FM,Micronesia,Pacific/Kosrae,39600
+MH,Marshall Islands,Pacific/Kwajalein,43200
+MH,Marshall Islands,Pacific/Majuro,43200
+PF,French Polynesia,Pacific/Marquesas,-34200
+UM,United States Minor Outlying Islands,Pacific/Midway,-39600
+NR,Nauru,Pacific/Nauru,43200
+NU,Niue,Pacific/Niue,-39600
+NF,Norfolk Island,Pacific/Norfolk,43200
+NC,New Caledonia,Pacific/Noumea,39600
+AS,American Samoa,Pacific/Pago_Pago,-39600
+PW,Palau,Pacific/Palau,32400
+PN,Pitcairn,Pacific/Pitcairn,-28800
+FM,Micronesia,Pacific/Pohnpei,39600
+PG,Papua New Guinea,Pacific/Port_Moresby,36000
+CK,Cook Islands,Pacific/Rarotonga,-36000
+MP,Northern Mariana Islands,Pacific/Saipan,36000
+PF,French Polynesia,Pacific/Tahiti,-36000
+KI,Kiribati,Pacific/Tarawa,43200
+TO,Tonga,Pacific/Tongatapu,46800
+UM,United States Minor Outlying Islands,Pacific/Wake,43200
+WF,Wallis and Futuna,Pacific/Wallis,43200
